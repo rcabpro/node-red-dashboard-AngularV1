@@ -1,4 +1,8 @@
 
+### 3.6.6: Maintenance Release
+
+ - no longer grab ctl-shft-d key for dashboard... can be optionally bound by user
+
 ### 3.6.5: Maintenance Release
 
  - Remove old jquery versons from gridstack dist dir to stop vuln triggering. Issue #833
